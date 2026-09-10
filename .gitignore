@@ -1,1 +1,43 @@
+# Private data
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.csv
 
+# Keep the synthetic example data
+!data/example_model_input.csv
+
+# Model weights and checkpoints
+models/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+conda-env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
