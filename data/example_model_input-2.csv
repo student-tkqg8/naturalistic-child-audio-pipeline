@@ -1,0 +1,7 @@
+clip_id,family_id,file_id,pair_id,audio_path,speech_present,speech_type,langs_present,split
+1,example_family_01,example_001,example_pair_001,path/to/audio/example_001.wav,yes,live,English,dev
+2,example_family_01,example_002,example_pair_001,path/to/audio/example_002.wav,no,,,dev
+3,example_family_02,example_003,example_pair_002,path/to/audio/example_003.wav,yes,live,Italian,dev
+4,example_family_02,example_004,example_pair_002,path/to/audio/example_004.wav,yes,live,Mandarin,eval
+5,example_family_03,example_005,example_pair_003,path/to/audio/example_005.wav,yes,electronic,English,eval
+6,example_family_03,example_006,example_pair_003,path/to/audio/example_006.wav,yes,live,"English; Spanish",dev
