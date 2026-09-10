@@ -1,1 +1,17 @@
+numpy
+pandas
+torch
+torchaudio
+transformers
+openai-whisper
+speechbrain
+silero-vad
+librosa
+pycountry
+scikit-learn
+scipy
+statsmodels
+matplotlib
+pytest
 
+Whisper requires FFmpeg to be installed separately and available on the system PATH.
