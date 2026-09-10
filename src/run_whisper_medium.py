@@ -6,7 +6,7 @@ import whisper
 import torch
 from whisper.tokenizer import LANGUAGES
 
-df = pd.read_csv("whisper_input.csv")
+df = pd.read_csv("model_input.csv")
 
 model = whisper.load_model("medium", device="cpu")
 
