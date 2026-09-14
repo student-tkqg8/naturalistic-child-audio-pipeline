@@ -14,4 +14,4 @@ statsmodels
 matplotlib
 pytest
 
-Whisper requires FFmpeg to be installed separately and available on the system PATH.
+# Whisper requires FFmpeg to be installed separately and available on the system PATH.
